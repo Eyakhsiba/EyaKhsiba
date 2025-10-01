@@ -5,12 +5,12 @@
 🌍 Languages: English (B2), German (B1)  
 
 ## 🚀 Skills  
-- Programming Languages: **Python, C++, Java, JavaScript**  
+- Programming Languages: **Python, C++**  
 - Embedded Systems & IoT: **Arduino, ESP32, FPGA (Nios II)**  
-- Web Development: **HTML, CSS, JavaScript  
+- Web Development: **HTML, CSS, JavaScript**
 - Mobile Development: **Java**  
 - AI & Machine Learning: **Computer Vision, SVM, TensorFlow**  
-- Tools: **VS Code**  
+- Tools: **VS Code , Android Studio**  
 
 ## 📌 Projects  
 - 🔐 **RFID Smart Lock with Arduino**  
