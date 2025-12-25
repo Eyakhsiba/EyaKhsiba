@@ -1,3 +1,6 @@
+
+
+```python
 class AboutMe:
     def __init__(self):
         self.name = "Eya Khsiba"
@@ -21,7 +24,7 @@ class AboutMe:
                 "Raspberry Pi", "FPGA (NIOS II)"
             ],
             "Computer Vision & AI": [
-                "OpenCV", "YOLO", "SVM", TensorFlow
+                "OpenCV", "YOLO", "SVM", "TensorFlow"
             ],
             "IoT & Networking": [
                 "MQTT", "HTTP", "WiFi",
