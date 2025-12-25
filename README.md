@@ -1,20 +1,37 @@
-# Hi 👋 I'm Eya Khsiba  
+class AboutMe:
+    def __init__(self):
+        self.name = "Eya Khsiba"
+        self.role = "Computer Systems Engineering Student"
+        self.specialization = "Embedded Systems & IoT"
+        self.location = "Tunisia"
+        self.interests = [
+            "Embedded Systems",
+            "Internet of Things",
+            "Computer Vision",
+            "Deep Learning"
+        ]
 
-🎓 Computer Engineering student specialized in **Embedded Systems and IoT**  
-Passionate about **Artificial Intelligence, Machine Learning, and Mobile Development**  
-Languages: English (B2), German (B1)  
-
-## Skills  
-- Programming Languages: **Python, C++**  
-- Embedded Systems & IoT: **Arduino, ESP32, FPGA (Nios II)**  
-- Web Development: **HTML, CSS, JavaScript**
-- Mobile Development: **Java**  
-- AI & Machine Learning: **Computer Vision, SVM, TensorFlow**  
-- Tools: **VS Code , Android Studio**  
-
-## Projects  
-- **RFID Smart Lock with Arduino**  
-- **Smart IoT Camera with ESP32-CAM** (Face Recognition & Cloud Integration)  
-- **LCD Digit Recognition using SVM & OpenCV**  
-- **Air Quality Monitoring System (IoT)**  
-   
+    def tech_stack(self):
+        return {
+            "Programming Languages": [
+                "C", "C++", "Python", "Java"
+            ],
+            "Embedded & Hardware": [
+                "Arduino", "ESP32 / ESP32-CAM",
+                "Raspberry Pi", "FPGA (NIOS II)"
+            ],
+            "Computer Vision & AI": [
+                "OpenCV", "YOLO", "SVM", TensorFlow
+            ],
+            "IoT & Networking": [
+                "MQTT", "HTTP", "WiFi",
+                "Cisco Packet Tracer"
+            ],
+            "Tools & Platforms": [
+                "Git", "VS Code",
+                "LabVIEW", "Ubuntu", "Google Colab"
+            ],
+            "Databases & Web": [
+                "MySQL", "Flask", "HTML", "CSS", "JS"
+            ]
+        }
